@@ -1,0 +1,24 @@
+.unit-outer-flex {
+  display: flex-box; 
+  color: #63062d;
+}
+
+.unit-inner-flex {
+	padding: .25em;
+	background-color: #ff5280; 
+	border: 3px solid white;
+	display: flex-box;
+}
+
+.unit-inner-flex-item {
+	width: 25%;
+	display: inline;
+}
+
+.unit-inner-flex-item > li {
+	color: #ff5280; 
+	margin: .125em; 
+	padding: .25em; 
+	background-color: silver; 
+	display: inline;
+}
