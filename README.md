@@ -1,11 +1,6 @@
 ## Unit plugin
 
 ### Installation
-(Optional: run locally
-  by installing / running [MAMP](https://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP), then
-  install Wordpress.
-)
-
 
 1. Place the files into a directory @ `'../wp-content/plugins/assessment'`.
 
